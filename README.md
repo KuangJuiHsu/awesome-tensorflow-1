@@ -34,6 +34,7 @@ A curated list of awesome projects using the [TensorFlow](https://github.com/ten
 
 ## Reinforcement Learning
 
+- [tensorflow-deepq](https://github.com/nivwusquorum/tensorflow-deepq) - A general implementation of [DeepQ learning](http://arxiv.org/abs/1312.5602) with a basic game demo and support for animated gifs of simulations.
 - [DeepLearningVideoGames](https://github.com/asrivat1/DeepLearningVideoGames) - An implementation of [DeepQ learning](http://arxiv.org/abs/1312.5602) for pong and tetris games.
 
 
