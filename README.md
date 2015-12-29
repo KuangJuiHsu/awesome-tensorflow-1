@@ -29,11 +29,12 @@ A curated list of awesome projects using the [TensorFlow](https://github.com/ten
 
 - [neural-style](https://github.com/anishathalye/neural-style) - Transfers styles between images via an implementation of [A Neural Algorithm of Artistic Style](http://arxiv.org/pdf/1508.06576v2.pdf).
 - [show_attend_and_tell](https://github.com/jazzsaxmafia/show_attend_and_tell.tensorflow) - Image captioning via the [Show, Attend, and Tell](http://arxiv.org/abs/1502.03044) model.
+- [sketch-rnn](https://github.com/hardmaru/sketch-rnn/) - Generates samples from svg stroke data; comes with an excellent Chinese character demo.
 
 
 ## Reinforcement Learning
 
-- [tensorflow-deepq](https://github.com/nivwusquorum/tensorflow-deepq) - An implementation of [DeepQ learning](http://arxiv.org/abs/1312.5602) for an agent in a simple simulation.
+- [DeepLearningVideoGames](https://github.com/asrivat1/DeepLearningVideoGames) - An implementation of [DeepQ learning](http://arxiv.org/abs/1312.5602) for pong and tetris games.
 
 
 ## Text
