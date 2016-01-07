@@ -4,15 +4,22 @@ A curated list of awesome projects using the [TensorFlow](https://github.com/ten
 ## Table of Contents
 
 - [Benchmarks](#benchmarks)
+- [Cloud Deployments](#cloud-deployments)
 - [Developer Tools](#developer-tools)
 - [Getting Started](#getting-started)
 - [Images](#images)
 - [Reinforcement Learning](#reinforcement-learning)
 - [Text](#text)
+- [Visualization](#visualization)
 
 ## Benchmarks
 
 - [convnet-benchmarks](https://github.com/soumith/convnet-benchmarks/issues/66) - Some preliminary benchmarks comparing TensorFlow to the Torch and Neon libraries.
+
+
+## Cloud Deployments
+
+- [tf_aws.sh](https://gist.github.com/dennybritz/8c2ca115b72ea98e5192) - Shell script for setting up TensorFlow on AWS EC2 with GPU support; more details and a public AMI available from [ramhiser.com](http://ramhiser.com/2016/01/05/installing-tensorflow-on-an-aws-ec2-instance-with-gpu-support/).
 
 
 ## Developer Tools
@@ -41,3 +48,8 @@ A curated list of awesome projects using the [TensorFlow](https://github.com/ten
 ## Text
 
 - [char-rnn-tensorflow](https://github.com/sherjilozair/char-rnn-tensorflow) - A character-level language model that can generate examples similar to those in the training text.
+
+
+## Visualization
+
+- [tensorboard](https://www.tensorflow.org/versions/master/how_tos/summaries_and_tensorboard/index.html) - Official computation graph visualizer developed by Google that ships with TensorFlow.
