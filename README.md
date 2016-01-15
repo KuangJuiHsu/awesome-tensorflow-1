@@ -37,6 +37,7 @@ A curated list of awesome projects using the [TensorFlow](https://github.com/ten
 - [neural-style](https://github.com/anishathalye/neural-style) - Transfers styles between images via an implementation of [A Neural Algorithm of Artistic Style](http://arxiv.org/pdf/1508.06576v2.pdf).
 - [show_attend_and_tell](https://github.com/jazzsaxmafia/show_attend_and_tell.tensorflow) - Image captioning via the [Show, Attend, and Tell](http://arxiv.org/abs/1502.03044) model.
 - [sketch-rnn](https://github.com/hardmaru/sketch-rnn/) - Generates samples from svg stroke data; comes with an excellent Chinese character demo.
+- [tf-adversarial](https://github.com/nivwusquorum/tf-adversarial/blob/master/Adversarial-LSUN.ipynb) - Adversarial image generation with included walkthrough.
 
 
 ## Reinforcement Learning
